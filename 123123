@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Поиск</title>
+    </head>
+        <body>
+            <form>
+                <p><input type="search" name="q" placeholder=""> 
+                <input type="submit" value="Искать"></p>
+            </form>
+            <p><b>Ортофосфорная кислота</b></p>
+            <p>P<sub>2</sub>O<sub>5</sub>+3H<sub>2</sub>O=2H<sub>3</sub>PO<sub>4</sub></p>
+            <p><b>Двухуровневый список</b></p>
+            <ol>
+                <li>
+                  СП
+                  <ol>
+                    <li>Иванов Иван Иванович</li>
+                    <li>Жмышенко Валерий Альбертович</li>
+                    <li>Дроздов Михаил Павлович</li>   
+                  </ol>
+                </li>
+                <li>
+                    КСМ
+                    <ol>
+                        <li>Петров Евгений Александрович</li>
+                        <li>Скворцова Елена Алексеевна</li>
+                        <li>Апчихба Евгения Викторовна</li>
+                    </ol>
+                </li>
+                <li>
+                    СКС
+                    <ol>
+                        <li>Ждан Юрий Олегович</li>
+                        <li>Астафьева Юлия Евгениевна</li>
+                    </ol>
+                </li>
+            </ol>
+            <p><b>Таблица с данными прогноза погоды.</b></p>
+            <table border="1">
+                <tr>
+                 <th>День недели</th>
+                 <th>Понедельник</th>
+                 <th>Вторник</th>
+                 <th>Среда</th>
+                 <th>Четверг</th>
+                 <td>Пятница</td>
+                 <td>Субота</td>
+                 <td>Воскресенье</td>
+                </tr>
+                <tr>
+                 <td>Температура</td>
+                 <td>26</td>
+                 <td>23</td>
+                 <td>22</td>
+                 <td>19</td>
+                 <td>30</td>
+                 <td>27</td>
+                 <td>24</td>
+               </tr>
+            </table>
+            <p><b>Гиперссылка на ресурс</b></p>
+            <p>Ссылка на
+                <a href="https://knureigs.github.io/itech/lb/ITech1_Lab1/index.html">страницу лабораторной работы №1</a>.
+            </p>
+        </body>
+</html>
