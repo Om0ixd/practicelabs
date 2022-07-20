@@ -1,0 +1,26 @@
+[
+  {
+    "FID_Actor": 1,
+    "FID_Film": 1
+  },
+  {
+    "FID_Actor": 2,
+    "FID_Film": 2
+  },
+  {
+    "FID_Actor": 3,
+    "FID_Film": 1
+  },
+  {
+    "FID_Actor": 4,
+    "FID_Film": 1
+  },
+  {
+    "FID_Actor": 5,
+    "FID_Film": 2
+  },
+  {
+    "FID_Actor": 6,
+    "FID_Film": 2
+  }
+]

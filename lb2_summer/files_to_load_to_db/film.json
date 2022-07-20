@@ -1,0 +1,26 @@
+[
+  {
+    "ID_Film": 1,
+    "name": "Морбіус",
+    "date": "2022-03-24",
+    "country": "США",
+    "quality": "1080p",
+    "resolution": "1980х720",
+    "codec": "WebRip",
+    "producer": "Аві Арад",
+    "director": "Даніель Еспіноса",
+    "carrier": "DVD"
+  },
+  {
+    "ID_Film": 2,
+    "name": "Доктор Стрендж",
+    "date": "2016-10-26",
+    "country": "США",
+    "quality": "720p",
+    "resolution": "1980х1080",
+    "codec": "HDRip",
+    "producer": "Кевін Файгі",
+    "director": "Скотт Дерріксон",
+    "carrier": "CD,DVD"
+  }
+]
